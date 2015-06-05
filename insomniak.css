@@ -1,4 +1,4 @@
 body{background-color:black;color:white;font-family:courier;padding:50px;text-align:center;}
-.jumbotron{font-family:VT323;}
+.jumbotron{background-color:black;color:lightgray;font-family:VT323;}
 ul {float:right;text-align:right;}
 li{list-style-type:none;color:white;}
