@@ -1,4 +1,49 @@
-body{background-color:black;color:white;font-family:courier;padding:50px;text-align:center;}
-.jumbotron{background-color:black;color:red;font-family:VT323;}
-ul {float:right;text-align:right;}
-li{list-style-type:none;color:white;}
+body {
+  background-color: black;
+  text-align: center;
+  font-family: VT323;
+}
+
+.jumbotron {
+  background-color: black;
+  color: white;
+  height: 10px;
+}
+
+ul {
+  list-style-type: none;
+  float:right;
+}
+
+li {
+  color: white;
+  float: left;
+  padding: 10px;
+}
+
+h1 {
+  start-color: white;
+  font-weight: bold;
+}
+
+p {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+span {
+  vertical-align: middle;
+}
+
+pre {
+  text-align: right;
+}
+
+.footer {
+  color: white;
+position:bottom;}
+
+#content {height:500px;color:red;}
